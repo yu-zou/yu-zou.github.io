@@ -28,17 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Conference Papers
 
 1. ![Static Badge](https://img.shields.io/badge/HOST-2024-blue) Shadab, Rakin Muhammad, Yu Zou, and Mingjie Lin. "CTR+: A High-Performance Metadata Access Scheme for Secure Embedded Memory in Heterogeneous Computing Systems." 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2024.
 
@@ -62,10 +52,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 11. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-blue) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
 
+## Journal Articles
 
-%# 🎖 Honors and Awards
-%- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. ![Static Badge](https://img.shields.io/badge/TDSC-2023-red) Shadab, Rakin Muhammad, et al. "A secure computing system with hardware-efficient lazy bonsai merkle tree for fpga-attached embedded memory." IEEE Transactions on Dependable and Secure Computing (2023).
+
+2. ![Static Badge](https://img.shields.io/badge/TECS-2023-red) Shadab, Rakin Muhammad, et al. "Hmt: A hardware-centric hybrid bonsai merkle tree algorithm for high-performance authentication." ACM Transactions on Embedded Computing Systems 22.4 (2023): 1-28.
+
+3. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, Amro Awad, and Mingjie Lin. "DirectNVM: Hardware-accelerated NVMe SSDs for high-performance embedded computing." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-24.
+
+4. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, et al. "ARES: Persistently secure non-volatile memory with processor-transparent and hardware-friendly integrity verification and metadata recovery." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-32.
+
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yu Zou"
+description              : "System Security Research Engineer @ ByteDance | Pre Research Scientist @ Alibaba | Ph.D. @ UCF"
 repository               : "yu-zou/yu-zou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Zou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "System Security Research Engineer"
   location         : "Beijing, China"
-  employer         :
+  employer         : "ByteDance"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PnFDtw4AAAAJ"
   email            : "yuzou93@outlook.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "yu-zou"
   google_plus      :
   keybase          :
   instagram        :

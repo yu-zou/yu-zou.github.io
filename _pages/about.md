@@ -40,7 +40,28 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-blue)Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems. Zou, Yu, and Mingjie Lin.
+1. ![Static Badge](https://img.shields.io/badge/HOST-2024-blue) Shadab, Rakin Muhammad, Yu Zou, and Mingjie Lin. "CTR+: A High-Performance Metadata Access Scheme for Secure Embedded Memory in Heterogeneous Computing Systems." 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2024.
+
+2. ![Static Badge](https://img.shields.io/badge/HOST-2023-blue) Shadab, Rakin Muhammad, et al. "OMT: A run-time adaptive architectural framework for bonsai merkle tree-based secure authentication with embedded heterogeneous memory." 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2023.
+
+3. ![Static Badge](https://img.shields.io/badge/FPGA-2023-blue) Shadab, Rakin Muhammad, et al. "OMT: A Demand-Adaptive, Hardware-Targeted Bonsai Merkle Tree Framework for Embedded Heterogeneous Memory Platform." Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays. 2023.
+
+4. ![Static Badge](https://img.shields.io/badge/VLDB-2022-blue) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
+
+5. ![Static Badge](https://img.shields.io/badge/HOST-2021-blue) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
+
+6. ![Static Badge](https://img.shields.io/badge/FCCM-2021-blue) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
+
+7. ![Static Badge](https://img.shields.io/badge/FPGA-2020-blue) Zou, Yu, and Mingjie Lin. "Massively simulating adiabatic bifurcations with FPGA to solve combinatorial optimization." Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020.
+
+8. ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-blue) Zou, Yu, and Mingjie Lin. "Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
+
+9. ![Static Badge](https://img.shields.io/badge/DAC-2019-blue) Zou, Yu, and Mingjie Lin. "Graph-Morphing: exploiting hidden parallelism of non-stencil computation in high-level synthesis." Proceedings of the 56th Annual Design Automation Conference 2019. 2019.
+
+10. ![Static Badge](https://img.shields.io/badge/FPT-2018-blue) Zou, Yu, and Mingjie Lin. "GridGAS: an I/O-efficient heterogeneous FPGA+ CPU computing platform for very large-scale graph analytics." 2018 International Conference on Field-Programmable Technology (FPT). IEEE, 2018.
+
+11. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-blue) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
+
 
 %# 🎖 Honors and Awards
 %- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

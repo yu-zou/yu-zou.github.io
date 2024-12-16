@@ -21,10 +21,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+My research interests encompass high-performance, energy-efficient, and confidential heterogeneous
+computing; secure computer architecture; hardware security attack and defense;
+AI for hardware; hardware for AI; and trustworthy computer systems.
+I am highly enthusiastic about exploring innovative system designs that are flexible and robust enough
+to address urgent industrial challenges, thereby contributing to the solution of real industry
+technical issues.
+Additionally, I am an ardent advocate of automating everything.
+Anything that necessitates the involvement of repetitive human resources is a potential candidate
+for optimization though automation.
+I'm also a strong proponent of open-sourcing. Open-sourcing is not merely a community behavior;
+it is also a form of self-regulation that demands everything to be perfected to the extend that
+it can be made accessible to the public.
+
+For more details about me, please check out my CV and
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PnFDtw4AAAAJ).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉 One of our papers was accepted and will be presented at ASPLOS'25. It proposes an innovative trusted execution environment (TEE) on COTS FPGAs. A collaboration work between Alibaba DAMO Academy and Tsinghua University. 
 
 # 📝 Publications 
 
@@ -67,14 +81,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2017 - 2021*, Ph.D. @ University of Central Florida, Advisor: Mingjie Lin, Amro Awad 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017 - 2021*, Ph.D. Computer Engineering @ University of Central Florida, Advisor: Mingjie Lin, Amro Awad 
+- *2015 - 2017*, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George 
+- *2011 - 2015*, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University) 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2024.01 - now*,     System Security Research Engineer @ ByteDance, CN
-- *2021.09 - 2024.01*, Research Scientist @ Alibaba, CN
+- *2024.01 - present*, System Security Research Engineer @ ByteDance, CN
+- *2021.09 - 2024.01*, Research Scientist @ Alibaba DAMO Academy, CN
 - *2017.05 - 2017.06*, Intern @ Laboratory for Physical Sciences, US

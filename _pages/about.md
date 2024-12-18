@@ -17,24 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm Yu Zou (邹宇 in Chinese). I work at ByteDance as a system security research engineer.
+Before joining ByteDance, I worked as a research scientist
+at Alibaba DAMO Academy.
+I got my Ph.D. degree at the University of Central Florida, master degree at the University of Florida,
+and bachelor degree at the Beihang University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-My research interests encompass high-performance, energy-efficient, and confidential heterogeneous
-computing; secure computer architecture; hardware security attack and defense;
-AI for hardware; hardware for AI; and trustworthy computer systems.
-I am highly enthusiastic about exploring innovative system designs that are flexible and robust enough
+My research interests encompass
+**1) high-performance, energy-efficient, and confidential
+heterogeneous
+computing;
+2) secure computer architecture;
+3) hardware security attack and defense;
+4) trustworthy computer system;
+5) AI for hardware; and
+6) hardware for AI.**
+I am highly enthusiastic about exploring innovative system
+designs that are feasible and robust enough
 to address urgent industrial challenges, thereby contributing to the solution of real industry
 technical issues.
 Additionally, I am an ardent advocate of automating everything.
 Anything that necessitates the involvement of repetitive human resources is a potential candidate
 for optimization though automation.
 I'm also a strong proponent of open-sourcing. Open-sourcing is not merely a community behavior;
-it is also a form of self-regulation that demands everything to be perfected to the extend that
+it is also a form of self-regulation that demands everything to
+be perfected to the extent that
 it can be made accessible to the public.
 
-For more details about me, please check out my CV and
+For more details about me, please check out my
+[CV](../assets/YuZou_CV.pdf) and
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PnFDtw4AAAAJ).
 
 # 🔥 News
@@ -76,11 +87,14 @@ For more details about me, please check out my CV and
 
 4. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, et al. "ARES: Persistently secure non-volatile memory with processor-transparent and hardware-friendly integrity verification and metadata recovery." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-32.
 
+## Technical Reports
+1. ![Static Badge](https://img.shields.io/badge/ModSim-2016-purple) Wang, Gongyu, et al. "A research platform for custom memory cube." Workshop on Modeling & Simulation of Systems and Applications (ModSim). 2016.
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 📖 Education
 - *2017 - 2021*, Ph.D. Computer Engineering @ University of Central Florida, Advisor: Mingjie Lin, Amro Awad 
 - *2015 - 2017*, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George 
 - *2011 - 2015*, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University) 

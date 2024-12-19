@@ -64,7 +64,7 @@ For more details about me, please check out my
 4. ![Static Badge](https://img.shields.io/badge/VLDB-2022-blue) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
 
 5. ![Static Badge](https://img.shields.io/badge/HOST-2021-blue) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
-[slides](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
+[\[slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
 
 7. ![Static Badge](https://img.shields.io/badge/FCCM-2021-blue) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
 

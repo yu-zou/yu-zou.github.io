@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -26,12 +26,7 @@ and bachelor degree at the Beihang University.
 My research interests encompass
 **1) high-performance, energy-efficient, and confidential
 heterogeneous
-computing;
-2) secure computer architecture;
-3) hardware security attack and defense;
-4) trustworthy computer system;
-5) AI for hardware; and
-6) hardware for AI.**
+computing; 2) secure computer architecture; 3) hardware security attack and defense; 4) trustworthy computer system; 5) AI for hardware; and 6) hardware for AI.**
 I am highly enthusiastic about exploring innovative system
 designs that are feasible and robust enough
 to address urgent industrial challenges, thereby contributing to the solution of real industry
@@ -45,13 +40,14 @@ be perfected to the extent that
 it can be made accessible to the public.
 
 For more details about me, please check out my
-[CV](../assets/YuZou_CV.pdf) and
+[CV](../assets/YuZou_2025_January.pdf) and
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PnFDtw4AAAAJ).
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉 One of our papers was accepted and will be presented at ASPLOS'25. It proposes an innovative trusted execution environment (TEE) on COTS FPGAs. A collaboration work between Alibaba DAMO Academy and Tsinghua University. 
 
-# 📝 Publications 
+- _2024.10_: &nbsp;🎉 One of our papers was accepted and will be presented at ASPLOS'25. It proposes an innovative trusted execution environment (TEE) on COTS FPGAs. A collaboration work between Alibaba DAMO Academy and Tsinghua University.
+
+# 📝 Publications
 
 ## Conference Papers
 
@@ -64,19 +60,19 @@ For more details about me, please check out my
 4. ![Static Badge](https://img.shields.io/badge/VLDB-2022-blue) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
 
 5. ![Static Badge](https://img.shields.io/badge/HOST-2021-blue) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
-[\[slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
+   [\[slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
 
-7. ![Static Badge](https://img.shields.io/badge/FCCM-2021-blue) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
+6. ![Static Badge](https://img.shields.io/badge/FCCM-2021-blue) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
 
-8. ![Static Badge](https://img.shields.io/badge/FPGA-2020-blue) Zou, Yu, and Mingjie Lin. "Massively simulating adiabatic bifurcations with FPGA to solve combinatorial optimization." Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020.
+7. ![Static Badge](https://img.shields.io/badge/FPGA-2020-blue) Zou, Yu, and Mingjie Lin. "Massively simulating adiabatic bifurcations with FPGA to solve combinatorial optimization." Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020.
 
-9. ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-blue) Zou, Yu, and Mingjie Lin. "Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
+8. ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-blue) Zou, Yu, and Mingjie Lin. "Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
 
-10. ![Static Badge](https://img.shields.io/badge/DAC-2019-blue) Zou, Yu, and Mingjie Lin. "Graph-Morphing: exploiting hidden parallelism of non-stencil computation in high-level synthesis." Proceedings of the 56th Annual Design Automation Conference 2019. 2019.
+9. ![Static Badge](https://img.shields.io/badge/DAC-2019-blue) Zou, Yu, and Mingjie Lin. "Graph-Morphing: exploiting hidden parallelism of non-stencil computation in high-level synthesis." Proceedings of the 56th Annual Design Automation Conference 2019. 2019.
 
-11. ![Static Badge](https://img.shields.io/badge/FPT-2018-blue) Zou, Yu, and Mingjie Lin. "GridGAS: an I/O-efficient heterogeneous FPGA+ CPU computing platform for very large-scale graph analytics." 2018 International Conference on Field-Programmable Technology (FPT). IEEE, 2018.
+10. ![Static Badge](https://img.shields.io/badge/FPT-2018-blue) Zou, Yu, and Mingjie Lin. "GridGAS: an I/O-efficient heterogeneous FPGA+ CPU computing platform for very large-scale graph analytics." 2018 International Conference on Field-Programmable Technology (FPT). IEEE, 2018.
 
-12. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-blue) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
+11. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-blue) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
 
 ## Journal Articles
 
@@ -89,22 +85,25 @@ For more details about me, please check out my
 4. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, et al. "ARES: Persistently secure non-volatile memory with processor-transparent and hardware-friendly integrity verification and metadata recovery." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-32.
 
 ## Technical Reports
+
 1. ![Static Badge](https://img.shields.io/badge/ModSim-2016-purple) Wang, Gongyu, et al. "A research platform for custom memory cube." Workshop on Modeling & Simulation of Systems and Applications (ModSim). 2016.
 
 <!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
-- *2017 - 2021*, Ph.D. Computer Engineering @ University of Central Florida, Advisor: Mingjie Lin, Amro Awad 
-- *2015 - 2017*, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George 
-- *2011 - 2015*, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University) 
+
+- _2017 - 2021_, Ph.D. Computer Engineering @ University of Central Florida, Advisor: Mingjie Lin, Amro Awad
+- _2015 - 2017_, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George
+- _2011 - 2015_, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University)
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2024.01 - present*, System Security Research Engineer @ ByteDance, CN
-- *2021.09 - 2024.01*, Research Scientist @ Alibaba DAMO Academy, CN
-- *2017.05 - 2017.06*, Intern @ Laboratory for Physical Sciences, US
+
+- _2024.01 - present_, System Security Research Engineer @ ByteDance, CN
+- _2021.09 - 2024.01_, Research Scientist @ Alibaba DAMO Academy, CN
+- _2017.05 - 2017.06_, Intern @ Laboratory for Physical Sciences, US

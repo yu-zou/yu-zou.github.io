@@ -40,7 +40,7 @@ be perfected to the extent that
 it can be made accessible to the public.
 
 For more details about me, please check out my
-[CV](../assets/YuZou_2025_January.pdf) and
+[CV](../assets/YuZou_Academic_CV_20250224.pdf) and
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PnFDtw4AAAAJ).
 
 # 🔥 News

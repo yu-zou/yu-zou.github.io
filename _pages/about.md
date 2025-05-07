@@ -45,44 +45,58 @@ For more details about me, please check out my
 
 # 🔥 News
 
-- _2024.10_: &nbsp;🎉 One of our papers was accepted and will be presented at ASPLOS'25. It proposes an innovative trusted execution environment (TEE) on COTS FPGAs. A collaboration work between Alibaba DAMO Academy and Tsinghua University.
+- _2025.05_: &nbsp;🎉
+Will give a talk at Institute of Information Engineering,
+Chinese Academy of Science. I'll talk about building a trustworthy and
+high-performance heterogeneous system. Thanks for Prof. Rui Hou's
+invitation.
+
+- _2024.10_: &nbsp;🎉
+One of our papers was accepted and will be presented at ASPLOS'25.
+It proposes an innovative trusted execution environment (TEE) on COTS FPGAs.
+A collaboration work between Alibaba DAMO Academy and Tsinghua University.
 
 # 📝 Publications
 
 ## Conference Papers
+1. ![Static Badge](https://img.shields.io/badge/ASPLOS-2024-red)
+Zou, Yu, et al. "Salus: A Practical Trusted Execution Environment for CPU-FPGA
+Heterogeneous Cloud Platforms." Proceedings of the 29th ACM International
+Conference on Architectural Support for Programming Languages and Operating
+Systems, Volume 4. 2024.
 
-1. ![Static Badge](https://img.shields.io/badge/HOST-2024-blue) Shadab, Rakin Muhammad, Yu Zou, and Mingjie Lin. "CTR+: A High-Performance Metadata Access Scheme for Secure Embedded Memory in Heterogeneous Computing Systems." 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2024.
+1. ![Static Badge](https://img.shields.io/badge/HOST-2024-red) Shadab, Rakin Muhammad, Yu Zou, and Mingjie Lin. "CTR+: A High-Performance Metadata Access Scheme for Secure Embedded Memory in Heterogeneous Computing Systems." 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2024.
 
-2. ![Static Badge](https://img.shields.io/badge/HOST-2023-blue) Shadab, Rakin Muhammad, et al. "OMT: A run-time adaptive architectural framework for bonsai merkle tree-based secure authentication with embedded heterogeneous memory." 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2023.
+1. ![Static Badge](https://img.shields.io/badge/HOST-2023-red) Shadab, Rakin Muhammad, et al. "OMT: A run-time adaptive architectural framework for bonsai merkle tree-based secure authentication with embedded heterogeneous memory." 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2023.
 
-3. ![Static Badge](https://img.shields.io/badge/FPGA-2023-blue) Shadab, Rakin Muhammad, et al. "OMT: A Demand-Adaptive, Hardware-Targeted Bonsai Merkle Tree Framework for Embedded Heterogeneous Memory Platform." Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays. 2023.
+1. ![Static Badge](https://img.shields.io/badge/FPGA-2023-red) Shadab, Rakin Muhammad, et al. "OMT: A Demand-Adaptive, Hardware-Targeted Bonsai Merkle Tree Framework for Embedded Heterogeneous Memory Platform." Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays. 2023.
 
-4. ![Static Badge](https://img.shields.io/badge/VLDB-2022-blue) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
+1. ![Static Badge](https://img.shields.io/badge/VLDB-2022-red) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
 
-5. ![Static Badge](https://img.shields.io/badge/HOST-2021-blue) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
+1. ![Static Badge](https://img.shields.io/badge/HOST-2021-red) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
    [\[slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
 
-6. ![Static Badge](https://img.shields.io/badge/FCCM-2021-blue) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
+1. ![Static Badge](https://img.shields.io/badge/FCCM-2021-red) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
 
-7. ![Static Badge](https://img.shields.io/badge/FPGA-2020-blue) Zou, Yu, and Mingjie Lin. "Massively simulating adiabatic bifurcations with FPGA to solve combinatorial optimization." Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020.
+1. ![Static Badge](https://img.shields.io/badge/FPGA-2020-red) Zou, Yu, and Mingjie Lin. "Massively simulating adiabatic bifurcations with FPGA to solve combinatorial optimization." Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020.
 
-8. ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-blue) Zou, Yu, and Mingjie Lin. "Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
+1. ![Static Badge](https://img.shields.io/badge/ISVLSI-2019-red) Zou, Yu, and Mingjie Lin. "Fast: A frequency-aware skewed merkle tree for fpga-secured embedded systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
 
-9. ![Static Badge](https://img.shields.io/badge/DAC-2019-blue) Zou, Yu, and Mingjie Lin. "Graph-Morphing: exploiting hidden parallelism of non-stencil computation in high-level synthesis." Proceedings of the 56th Annual Design Automation Conference 2019. 2019.
+1. ![Static Badge](https://img.shields.io/badge/DAC-2019-red) Zou, Yu, and Mingjie Lin. "Graph-Morphing: exploiting hidden parallelism of non-stencil computation in high-level synthesis." Proceedings of the 56th Annual Design Automation Conference 2019. 2019.
 
-10. ![Static Badge](https://img.shields.io/badge/FPT-2018-blue) Zou, Yu, and Mingjie Lin. "GridGAS: an I/O-efficient heterogeneous FPGA+ CPU computing platform for very large-scale graph analytics." 2018 International Conference on Field-Programmable Technology (FPT). IEEE, 2018.
+1. ![Static Badge](https://img.shields.io/badge/FPT-2018-red) Zou, Yu, and Mingjie Lin. "GridGAS: an I/O-efficient heterogeneous FPGA+ CPU computing platform for very large-scale graph analytics." 2018 International Conference on Field-Programmable Technology (FPT). IEEE, 2018.
 
-11. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-blue) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
+1. ![Static Badge](https://img.shields.io/badge/ISVLSI-2018-red) Zou, Yu, and Mingjie Lin. "Very large-scale and node-heavy graph analytics with heterogeneous fpga+ cpu computing platform." 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2018.
 
 ## Journal Articles
 
-1. ![Static Badge](https://img.shields.io/badge/TDSC-2023-red) Shadab, Rakin Muhammad, et al. "A secure computing system with hardware-efficient lazy bonsai merkle tree for fpga-attached embedded memory." IEEE Transactions on Dependable and Secure Computing (2023).
+1. ![Static Badge](https://img.shields.io/badge/TDSC-2023-blue) Shadab, Rakin Muhammad, et al. "A secure computing system with hardware-efficient lazy bonsai merkle tree for fpga-attached embedded memory." IEEE Transactions on Dependable and Secure Computing (2023).
 
-2. ![Static Badge](https://img.shields.io/badge/TECS-2023-red) Shadab, Rakin Muhammad, et al. "Hmt: A hardware-centric hybrid bonsai merkle tree algorithm for high-performance authentication." ACM Transactions on Embedded Computing Systems 22.4 (2023): 1-28.
+1. ![Static Badge](https://img.shields.io/badge/TECS-2023-blue) Shadab, Rakin Muhammad, et al. "Hmt: A hardware-centric hybrid bonsai merkle tree algorithm for high-performance authentication." ACM Transactions on Embedded Computing Systems 22.4 (2023): 1-28.
 
-3. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, Amro Awad, and Mingjie Lin. "DirectNVM: Hardware-accelerated NVMe SSDs for high-performance embedded computing." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-24.
+1. ![Static Badge](https://img.shields.io/badge/TECS-2021-blue) Zou, Yu, Amro Awad, and Mingjie Lin. "DirectNVM: Hardware-accelerated NVMe SSDs for high-performance embedded computing." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-24.
 
-4. ![Static Badge](https://img.shields.io/badge/TECS-2021-red) Zou, Yu, et al. "ARES: Persistently secure non-volatile memory with processor-transparent and hardware-friendly integrity verification and metadata recovery." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-32.
+1. ![Static Badge](https://img.shields.io/badge/TECS-2021-blue) Zou, Yu, et al. "ARES: Persistently secure non-volatile memory with processor-transparent and hardware-friendly integrity verification and metadata recovery." ACM Transactions on Embedded Computing Systems (TECS) 21.1 (2022): 1-32.
 
 ## Technical Reports
 
@@ -98,9 +112,9 @@ For more details about me, please check out my
 - _2015 - 2017_, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George
 - _2011 - 2015_, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University)
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
+<!-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
 
 # 💻 Work Experience
 

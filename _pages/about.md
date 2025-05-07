@@ -112,12 +112,13 @@ Systems, Volume 4. 2024.
 - _2015 - 2017_, M.S. Computer Engineering @ University of Florida, Advisor: Herman Lam, Alan D. George
 - _2011 - 2015_, B.S. Electrical & Computer Engineering @ Beihang University, Advisor: Yu Wang (Tsinghua University)
 
-# 💬 Invited Talks
-- *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
-<!-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
-
 # 💻 Work Experience
 
 - _2024.01 - present_, System Security Research Engineer @ ByteDance, CN
 - _2021.09 - 2024.01_, Research Scientist @ Alibaba DAMO Academy, CN
 - _2017.05 - 2017.06_, Intern @ Laboratory for Physical Sciences, US
+
+# 💬 Invited Talks
+
+- *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
+<!-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->

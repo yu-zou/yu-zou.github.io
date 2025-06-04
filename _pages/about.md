@@ -120,8 +120,8 @@ Systems, Volume 4. 2024.
 
 # 💬 Invited Talks
 
-- *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
 - *2025.05*, "Building A Trustworthy And High-Performance Heterogeneous System", IIE, CAS
+- *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
 
 # 🎓 Services
 

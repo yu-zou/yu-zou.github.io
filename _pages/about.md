@@ -102,9 +102,9 @@ Systems, Volume 4. 2024.
 
 1. ![Static Badge](https://img.shields.io/badge/ModSim-2016-purple) Wang, Gongyu, et al. "A research platform for custom memory cube." Workshop on Modeling & Simulation of Systems and Applications (ModSim). 2016.
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+
+- UF Academic Achievement Award Scholarship, 2015
 
 # 📖 Education
 
@@ -121,4 +121,11 @@ Systems, Volume 4. 2024.
 # 💬 Invited Talks
 
 - *2025.01*, "Building A Trustworthy And High-Performance Heterogeneous System", Virginia Tech
-<!-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
+- *2025.05*, "Building A Trustworthy And High-Performance Heterogeneous System", IIE, CAS
+
+# 🎓 Services
+
+## Journal invited reviewer
+
+- IEEE Embedded Systems Letters 
+

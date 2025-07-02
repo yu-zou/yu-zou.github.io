@@ -63,7 +63,7 @@ A collaboration work between Alibaba DAMO Academy and Tsinghua University.
 Zou, Yu, et al. "Salus: A Practical Trusted Execution Environment for CPU-FPGA
 Heterogeneous Cloud Platforms." Proceedings of the 29th ACM International
 Conference on Architectural Support for Programming Languages and Operating
-Systems, Volume 4. 2024.
+Systems, Volume 4. 2024. [\[Paper\]](../assets/salus-camera-ready-final.pdf)
 
 1. ![Static Badge](https://img.shields.io/badge/HOST-2024-red) Shadab, Rakin Muhammad, Yu Zou, and Mingjie Lin. "CTR+: A High-Performance Metadata Access Scheme for Secure Embedded Memory in Heterogeneous Computing Systems." 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2024.
 
@@ -74,7 +74,7 @@ Systems, Volume 4. 2024.
 1. ![Static Badge](https://img.shields.io/badge/VLDB-2022-red) Wang, Sheng, et al. "Operon: An encrypted database for ownership-preserving data management." Proceedings of the VLDB Endowment 15.12 (2022): 3332-3345.
 
 1. ![Static Badge](https://img.shields.io/badge/HOST-2021-red) Zou, Yu, Amro Awad, and Mingjie Lin. "Hermes: Hardware-efficient speculative dataflow architecture for bonsai merkle tree-based memory authentication." 2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST). IEEE, 2021.
-   [\[slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
+   [\[Slides\]](https://docs.google.com/presentation/d/1r9oedgGqS8LJf1bSxom_2GIhe8eQ2NEL/edit#slide=id.p1)
 
 1. ![Static Badge](https://img.shields.io/badge/FCCM-2021-red) Zou, Yu, and Mingjie Lin. "FERMAT: fpga-accelerated heterogeneous computing platform near nvme storage." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021.
 
